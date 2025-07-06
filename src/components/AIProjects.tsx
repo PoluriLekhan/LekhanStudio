@@ -13,7 +13,7 @@ const AIProjects = () => {
       icon: Search,
       color: 'bg-blue-50 border-blue-200',
       iconColor: 'text-blue-600',
-      link: 'https://your-multimodel-link.com'
+      link: 'https://ai-bice-sigma.vercel.app/'
     },
     {
       id: 'messaging',
@@ -23,7 +23,7 @@ const AIProjects = () => {
       icon: MessageSquare,
       color: 'bg-green-50 border-green-200',
       iconColor: 'text-green-600',
-      link: 'https://your-fastmsg-link.com'
+      link: 'https://empathic-voice-interface-starter-phi-six.vercel.app/'
     },
     {
       id: 'voice',
@@ -33,7 +33,7 @@ const AIProjects = () => {
       icon: Mic,
       color: 'bg-purple-50 border-purple-200',
       iconColor: 'text-purple-600',
-      link: 'https://your-voiceai-link.com'
+      link: 'https://nextjs-ai-chatbot-iota-peach-97.vercel.app/'
     }
   ];
 
